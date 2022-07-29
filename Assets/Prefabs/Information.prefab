@@ -177,8 +177,8 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: This game is a recreation of Color Switch with other particles, post processing
     efeccts and more things. The only purpose for making this project is to practise
-    my programming skills. The music you are currently listening to, was made by
-    Tomas Funes. I hope you enjoy the game :)
+    my programming skills. The music and SFX will be added soon. I hope you enjoy
+    the game :)
 --- !u!1 &3279753611371411876
 GameObject:
   m_ObjectHideFlags: 0
